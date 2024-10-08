@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings":
+  {
+    "bankDb": "Data Source=BankDb\\PRD;Initial Catalog=Banking;Integrated Security=True"
+  }
+}
